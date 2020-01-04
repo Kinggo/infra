@@ -1,7 +1,7 @@
 package base
 
 import (
-	"git.imooc.com/wendell1000/infra"
+	"github.com/Kinggo/infra"
 	"github.com/kataras/iris"
 	"github.com/tietang/go-eureka-client/eureka"
 	"time"
